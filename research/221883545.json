@@ -1,0 +1,244 @@
+{
+  "imt_id": 199897557,
+  "nm_id": 221883545,
+  "imt_name": "Набор косметический для ухода за телом и лицом",
+  "slug": "nabor-kosmeticheskij-dlya-ukhoda-za-telom-i-litsom",
+  "subj_name": "Косметические наборы для ухода",
+  "subj_root_name": "Красота",
+  "vendor_code": "EX-nbr-1",
+  "description": "Подарочный набор Exile для ухода за лицом и телом. Косметический набор включает в себя шампунь для волос, гель для тела, пенку для умывания лица и скраб, которые обеспечат комплексный уход за кожей лица и тела. Все ухаживающие средства имеют натуральный органический состав с нейтральным уровнем ph, подходят для любого типа кожи. Шампунь обеспечивает ежедневное очищение, помогает очистить волосы от загрязнений и остатков стайлинга. Крем-гель для душа благодаря комплексу активных компонентов делает кожу гладкой и шелковистой, а также обладает антиоксидантным эффектом. Кремовая текстура приятно наносится, легко смывается и оставляет легкую увлажняющую пленку на теле. Пантенол в составе средства питает и успокаивает кожу, аромат вишневого смузи. Скраб отшелушивает ороговевшие частички эпидермиса и выравнивает рельеф кожи. Пенка для умывания с соком листьев алоэ, экстрактом ромашки и Д-пантенолом обладает антиоксидантным действием, глубоко очищает поры, увлажняет и обладает анти-акне эффектом. ",
+  "options": [
+    {
+      "name": "Состав",
+      "value": "aqua; sodium laureth sulfate; Cocamidopropyl Betaine; polyquartenium 7; Cocamide DEA; Sodium Chloride; PEG 7; Cocodiethanolamide; Glycol Distearate; PPG-3 Caprylyl Ether; EDTA; parfum; Citric Acid; methylchloroisothiazolinone; methylisothiazolinone",
+      "charc_type": 1
+    },
+    {
+      "name": "Комплектация",
+      "value": "Шампунь 250 мл - 1 шт.; Гель для душа 250 мл - 1 шт.; скраб для тела - 1 шт.; Пенка для умывания 160 мл - 1 шт.; Ланъярд - 1 шт.; слеп-браслет - 1 шт.; объемная наклейка - 1 шт.; браслет-брелок - 1 шт.; вордпад - 1 шт.; наклейка для вордпада - 1 шт.",
+      "charc_type": 1
+    },
+    {
+      "name": "Действие",
+      "value": "очищение; увлажнение; питание",
+      "charc_type": 1
+    },
+    {
+      "name": "Количество предметов в упаковке",
+      "value": "10 шт.",
+      "charc_type": 1,
+      "is_variable": true,
+      "variable_values": [
+        "10 шт."
+      ],
+      "variable_value_IDs": [
+        179795
+      ]
+    },
+    {
+      "name": "Цвет",
+      "value": "белый",
+      "charc_type": 1
+    },
+    {
+      "name": "Срок годности",
+      "value": "36 мес",
+      "charc_type": 1
+    },
+    {
+      "name": "Страна производства",
+      "value": "Россия",
+      "charc_type": 1
+    }
+  ],
+  "compositions": [
+    {
+      "name": "aqua"
+    },
+    {
+      "name": "sodium laureth sulfate"
+    },
+    {
+      "name": "Cocamidopropyl Betaine"
+    },
+    {
+      "name": "polyquartenium 7"
+    },
+    {
+      "name": "Cocamide DEA"
+    },
+    {
+      "name": "Sodium Chloride"
+    },
+    {
+      "name": "PEG 7"
+    },
+    {
+      "name": "Cocodiethanolamide"
+    },
+    {
+      "name": "Glycol Distearate"
+    },
+    {
+      "name": "PPG-3 Caprylyl Ether"
+    },
+    {
+      "name": "EDTA"
+    },
+    {
+      "name": "parfum"
+    },
+    {
+      "name": "Citric Acid"
+    },
+    {
+      "name": "methylchloroisothiazolinone"
+    },
+    {
+      "name": "methylisothiazolinone"
+    }
+  ],
+  "certificate": {},
+  "nm_colors_names": "белый",
+  "colors": [
+    221883545,
+    238679208,
+    390990015,
+    488585561,
+    695255990,
+    710586320,
+    831468970,
+    263201373,
+    299462002,
+    318315900,
+    336639719,
+    710592510,
+    710602891,
+    513872235
+  ],
+  "contents": "Шампунь 250 мл - 1 шт.; Гель для душа 250 мл - 1 шт.; скраб для тела - 1 шт.; Пенка для умывания 160 мл - 1 шт.; Ланъярд - 1 шт.; слеп-браслет - 1 шт.; объемная наклейка - 1 шт.; браслет-брелок - 1 шт.; вордпад - 1 шт.; наклейка для вордпада - 1 шт.",
+  "full_colors": [
+    {
+      "nm_id": 221883545
+    },
+    {
+      "nm_id": 238679208
+    },
+    {
+      "nm_id": 390990015
+    },
+    {
+      "nm_id": 488585561
+    },
+    {
+      "nm_id": 695255990
+    },
+    {
+      "nm_id": 710586320
+    },
+    {
+      "nm_id": 831468970
+    },
+    {
+      "nm_id": 263201373
+    },
+    {
+      "nm_id": 299462002
+    },
+    {
+      "nm_id": 318315900
+    },
+    {
+      "nm_id": 336639719
+    },
+    {
+      "nm_id": 710592510
+    },
+    {
+      "nm_id": 710602891
+    },
+    {
+      "nm_id": 513872235
+    }
+  ],
+  "selling": {
+    "brand_name": "Exile",
+    "brand_hash": "73BA08755FFA8790",
+    "supplier_id": 4071500,
+    "no_return_map": 4351
+  },
+  "media": {
+    "photo_count": 15
+  },
+  "data": {
+    "subject_id": 403,
+    "subject_root_id": 49,
+    "chrt_ids": [
+      352379074
+    ],
+    "tech_size": "0"
+  },
+  "grouped_options": [
+    {
+      "group_name": "Основная информация",
+      "options": [
+        {
+          "name": "Состав",
+          "value": "aqua; sodium laureth sulfate; Cocamidopropyl Betaine; polyquartenium 7; Cocamide DEA; Sodium Chloride; PEG 7; Cocodiethanolamide; Glycol Distearate; PPG-3 Caprylyl Ether; EDTA; parfum; Citric Acid; methylchloroisothiazolinone; methylisothiazolinone",
+          "charc_type": 1
+        },
+        {
+          "name": "Цвет",
+          "value": "белый",
+          "charc_type": 1
+        }
+      ]
+    },
+    {
+      "group_name": "Общие характеристики",
+      "options": [
+        {
+          "name": "Количество предметов в упаковке",
+          "value": "10 шт.",
+          "charc_type": 1,
+          "is_variable": true,
+          "variable_values": [
+            "10 шт."
+          ],
+          "variable_value_IDs": [
+            179795
+          ]
+        }
+      ]
+    },
+    {
+      "group_name": "Дополнительная информация",
+      "options": [
+        {
+          "name": "Комплектация",
+          "value": "Шампунь 250 мл - 1 шт.; Гель для душа 250 мл - 1 шт.; скраб для тела - 1 шт.; Пенка для умывания 160 мл - 1 шт.; Ланъярд - 1 шт.; слеп-браслет - 1 шт.; объемная наклейка - 1 шт.; браслет-брелок - 1 шт.; вордпад - 1 шт.; наклейка для вордпада - 1 шт.",
+          "charc_type": 1
+        },
+        {
+          "name": "Действие",
+          "value": "очищение; увлажнение; питание",
+          "charc_type": 1
+        },
+        {
+          "name": "Срок годности",
+          "value": "36 мес",
+          "charc_type": 1
+        },
+        {
+          "name": "Страна производства",
+          "value": "Россия",
+          "charc_type": 1
+        }
+      ]
+    }
+  ],
+  "need_kiz": true,
+  "user_flags": 0,
+  "update_date": "2026-07-17T02:47:21.971019Z",
+  "create_date": "2024-04-03T14:59:49.136056Z"
+}

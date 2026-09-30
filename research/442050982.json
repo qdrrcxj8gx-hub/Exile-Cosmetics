@@ -1,0 +1,184 @@
+{
+  "imt_id": 446060758,
+  "nm_id": 442050982,
+  "imt_name": "Набор ароматов THE FIVE SENSES 5шт по 9мл",
+  "slug": "nabor-aromatov-the-five-senses-5sht-po-9ml",
+  "subj_name": "Духи",
+  "subj_root_name": "Красота",
+  "vendor_code": "EX-nbr-9",
+  "description": "Погрузитесь в мир уникальных ароматов с набором от Exile. Комплект THE FIVE SENSES включает пять парфюмерных композиций по 9 мл, каждая из которых создана в соответствии с высшими стандартами парфюмерного искусства:\nCherry & Amber – насыщенный и чувственный аромат, соединяющий сладость спелой вишни с нотой амбры.\nPeach & Patchouli – гармония сочного персика и пряного пачули, создающая атмосферу нежности и загадочности.\nPepper & Jasmine – смелый и утончённый союз пикантного перца и изысканного жасмина.\nMango & Sandalwood – тропическая свежесть манго, дополненная мягкостью сандалового дерева.\nBergamot & Orange – цитрусовая симфония с бодрящими нотами бергамота и солнечного апельсина.\nАроматы Exile отличаются не только утонченностью, но и удивительной стойкостью. Они сохраняются на коже и одежде на протяжении всего дня, создавая вокруг Вас атмосферу изысканности и подчеркивает Ваше настроение.\nДополнением к набору служит стильный индивидуальный чехол для флакона 9 мл, который удобно брать с собой, сохраняя аромат всегда под рукой.\nTHE FIVE SENSES от Exile - ваш персональный ароматный ритуал, который следует за вами повсюду.\n",
+  "options": [
+    {
+      "name": "Состав",
+      "value": "вишня; амбра; персик; пачули; перец черный; жасмин; манго; сандаловое дерево; бергамот; апельсин; alcohol 81,96% (об.); parfum; Limonene; Linalool; Benzyl Salicylate; Hexyl Cinnamal; Citronellol; Citral; Geraniol",
+      "charc_type": 1
+    },
+    {
+      "name": "Объем товара",
+      "value": "45 мл",
+      "charc_type": 4,
+      "is_variable": true
+    },
+    {
+      "name": "Группа аромата",
+      "value": "амбровый аромат",
+      "charc_type": 1
+    },
+    {
+      "name": "Комплектация",
+      "value": "стеклянный флакон - 5шт; чехол - 1шт",
+      "charc_type": 1
+    },
+    {
+      "name": "Срок годности",
+      "value": "36 мес",
+      "charc_type": 1
+    },
+    {
+      "name": "Страна производства",
+      "value": "Россия",
+      "charc_type": 1
+    }
+  ],
+  "compositions": [
+    {
+      "name": "вишня"
+    },
+    {
+      "name": "амбра"
+    },
+    {
+      "name": "персик"
+    },
+    {
+      "name": "пачули"
+    },
+    {
+      "name": "перец черный"
+    },
+    {
+      "name": "жасмин"
+    },
+    {
+      "name": "манго"
+    },
+    {
+      "name": "сандаловое дерево"
+    },
+    {
+      "name": "бергамот"
+    },
+    {
+      "name": "апельсин"
+    },
+    {
+      "name": "alcohol 81,96% (об.)"
+    },
+    {
+      "name": "parfum"
+    },
+    {
+      "name": "Limonene"
+    },
+    {
+      "name": "Linalool"
+    },
+    {
+      "name": "Benzyl Salicylate"
+    },
+    {
+      "name": "Hexyl Cinnamal"
+    },
+    {
+      "name": "Citronellol"
+    },
+    {
+      "name": "Citral"
+    },
+    {
+      "name": "Geraniol"
+    }
+  ],
+  "certificate": {
+    "verified": true
+  },
+  "colors": [
+    442050982,
+    810016278
+  ],
+  "contents": "стеклянный флакон - 5шт; чехол - 1шт",
+  "full_colors": [
+    {
+      "nm_id": 442050982
+    },
+    {
+      "nm_id": 810016278
+    }
+  ],
+  "selling": {
+    "brand_name": "Exile",
+    "brand_hash": "73BA08755FFA8790",
+    "supplier_id": 4071500,
+    "no_return_map": 4351
+  },
+  "media": {
+    "photo_count": 8
+  },
+  "data": {
+    "subject_id": 356,
+    "subject_root_id": 49,
+    "chrt_ids": [
+      625815139
+    ],
+    "tech_size": "0"
+  },
+  "grouped_options": [
+    {
+      "group_name": "Основная информация",
+      "options": [
+        {
+          "name": "Состав",
+          "value": "вишня; амбра; персик; пачули; перец черный; жасмин; манго; сандаловое дерево; бергамот; апельсин; alcohol 81,96% (об.); parfum; Limonene; Linalool; Benzyl Salicylate; Hexyl Cinnamal; Citronellol; Citral; Geraniol",
+          "charc_type": 1
+        }
+      ]
+    },
+    {
+      "group_name": "Дополнительная информация",
+      "options": [
+        {
+          "name": "Объем товара",
+          "value": "45 мл",
+          "charc_type": 4,
+          "is_variable": true
+        },
+        {
+          "name": "Группа аромата",
+          "value": "амбровый аромат",
+          "charc_type": 1
+        },
+        {
+          "name": "Комплектация",
+          "value": "стеклянный флакон - 5шт; чехол - 1шт",
+          "charc_type": 1
+        },
+        {
+          "name": "Срок годности",
+          "value": "36 мес",
+          "charc_type": 1
+        },
+        {
+          "name": "Страна производства",
+          "value": "Россия",
+          "charc_type": 1
+        }
+      ]
+    }
+  ],
+  "need_kiz": true,
+  "has_tnvd_okpd": true,
+  "user_flags": 0,
+  "properties": 0,
+  "update_date": "2026-02-11T19:49:20.416476Z",
+  "create_date": "2025-06-13T07:15:32.91935Z"
+}

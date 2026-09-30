@@ -1,0 +1,398 @@
+[
+  {
+    "original": "assets/campaign-2083-3.jpg",
+    "enhanced": "assets/enhanced/campaign-2083-3.webp",
+    "size": [
+      533,
+      800
+    ],
+    "originalBytes": 68172,
+    "enhancedBytes": 339106,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/campaign-2134-0.jpg",
+    "enhanced": "assets/enhanced/campaign-2134-0.webp",
+    "size": [
+      533,
+      800
+    ],
+    "originalBytes": 41263,
+    "enhancedBytes": 86864,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/campaign-2371-1.jpg",
+    "enhanced": "assets/enhanced/campaign-2371-1.webp",
+    "size": [
+      600,
+      800
+    ],
+    "originalBytes": 55963,
+    "enhancedBytes": 193786,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-221883545.webp",
+    "enhanced": "assets/enhanced/detail-221883545.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 40642,
+    "enhancedBytes": 234058,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-238679208.webp",
+    "enhanced": "assets/enhanced/detail-238679208.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 34564,
+    "enhancedBytes": 188820,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-263201373.webp",
+    "enhanced": "assets/enhanced/detail-263201373.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 54150,
+    "enhancedBytes": 314596,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-299462002.webp",
+    "enhanced": "assets/enhanced/detail-299462002.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 87608,
+    "enhancedBytes": 716076,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-318315900.webp",
+    "enhanced": "assets/enhanced/detail-318315900.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 41904,
+    "enhancedBytes": 132186,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-336639719.webp",
+    "enhanced": "assets/enhanced/detail-336639719.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 45966,
+    "enhancedBytes": 341608,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-390990015.webp",
+    "enhanced": "assets/enhanced/detail-390990015.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 62484,
+    "enhancedBytes": 590024,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-442050982.webp",
+    "enhanced": "assets/enhanced/detail-442050982.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 20064,
+    "enhancedBytes": 88010,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-488585561.webp",
+    "enhanced": "assets/enhanced/detail-488585561.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 39670,
+    "enhancedBytes": 283560,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-513872235.webp",
+    "enhanced": "assets/enhanced/detail-513872235.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 52524,
+    "enhancedBytes": 425868,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-695255990.webp",
+    "enhanced": "assets/enhanced/detail-695255990.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 62544,
+    "enhancedBytes": 464020,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-710586320.webp",
+    "enhanced": "assets/enhanced/detail-710586320.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 30908,
+    "enhancedBytes": 142494,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-710592510.webp",
+    "enhanced": "assets/enhanced/detail-710592510.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 36260,
+    "enhancedBytes": 145062,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-710602891.webp",
+    "enhanced": "assets/enhanced/detail-710602891.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 36092,
+    "enhancedBytes": 117740,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-810016278.webp",
+    "enhanced": "assets/enhanced/detail-810016278.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 16710,
+    "enhancedBytes": 98210,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/detail-831468970.webp",
+    "enhanced": "assets/enhanced/detail-831468970.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 34038,
+    "enhancedBytes": 263356,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/exile-perfume-2026.jpg",
+    "enhanced": "assets/enhanced/exile-perfume-2026.webp",
+    "size": [
+      600,
+      800
+    ],
+    "originalBytes": 105370,
+    "enhancedBytes": 391756,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-221883545.webp",
+    "enhanced": "assets/enhanced/product-221883545.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 46038,
+    "enhancedBytes": 357934,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-238679208.webp",
+    "enhanced": "assets/enhanced/product-238679208.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 54746,
+    "enhancedBytes": 340166,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-263201373.webp",
+    "enhanced": "assets/enhanced/product-263201373.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 48024,
+    "enhancedBytes": 310088,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-299462002.webp",
+    "enhanced": "assets/enhanced/product-299462002.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 53734,
+    "enhancedBytes": 367880,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-318315900.webp",
+    "enhanced": "assets/enhanced/product-318315900.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 55380,
+    "enhancedBytes": 205680,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-336639719.webp",
+    "enhanced": "assets/enhanced/product-336639719.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 38114,
+    "enhancedBytes": 355482,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-390990015.webp",
+    "enhanced": "assets/enhanced/product-390990015.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 76092,
+    "enhancedBytes": 680500,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-442050982.webp",
+    "enhanced": "assets/enhanced/product-442050982.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 46050,
+    "enhancedBytes": 118742,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-488585561.webp",
+    "enhanced": "assets/enhanced/product-488585561.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 120316,
+    "enhancedBytes": 822976,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-513872235.webp",
+    "enhanced": "assets/enhanced/product-513872235.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 84540,
+    "enhancedBytes": 726934,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-695255990.webp",
+    "enhanced": "assets/enhanced/product-695255990.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 60200,
+    "enhancedBytes": 461522,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-710586320.webp",
+    "enhanced": "assets/enhanced/product-710586320.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 31418,
+    "enhancedBytes": 177494,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-710592510.webp",
+    "enhanced": "assets/enhanced/product-710592510.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 36766,
+    "enhancedBytes": 200450,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-710602891.webp",
+    "enhanced": "assets/enhanced/product-710602891.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 31074,
+    "enhancedBytes": 148408,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-810016278.webp",
+    "enhanced": "assets/enhanced/product-810016278.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 27714,
+    "enhancedBytes": 137012,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  },
+  {
+    "original": "assets/product-831468970.webp",
+    "enhanced": "assets/enhanced/product-831468970.webp",
+    "size": [
+      900,
+      1200
+    ],
+    "originalBytes": 46884,
+    "enhancedBytes": 403534,
+    "operation": "mild luminance denoise + unsharp mask; lossless WebP; no resize"
+  }
+]

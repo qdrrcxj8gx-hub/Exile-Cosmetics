@@ -1,0 +1,44 @@
+{
+  "productDetails": {
+    "710586320": 5,
+    "710592510": 5,
+    "710602891": 5,
+    "831468970": 3,
+    "488585561": 15,
+    "513872235": 15,
+    "442050982": 8,
+    "810016278": 10,
+    "299462002": 11,
+    "318315900": 2,
+    "336639719": 2,
+    "390990015": 12,
+    "695255990": 14,
+    "263201373": 16,
+    "238679208": 9,
+    "221883545": 4
+  },
+  "portraitProducts": [
+    "five-senses",
+    "perfume"
+  ],
+  "portraitSource": "https://t.me/exilemusic13/2626",
+  "portraitDate": "2026-02-12",
+  "portraitOriginalSize": "600x800",
+  "logoSource": "https://dprofile.ru/case/92982/exile-cosmetics",
+  "missingPortraits": [
+    "hair",
+    "body",
+    "man",
+    "cuba",
+    "moon",
+    "tetris",
+    "cherry",
+    "black",
+    "mirror",
+    "gold",
+    "bear",
+    "drop-three",
+    "travel-kit",
+    "original"
+  ]
+}
